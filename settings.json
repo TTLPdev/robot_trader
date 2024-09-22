@@ -1,0 +1,7 @@
+{
+	"market": "BTCUSDT",
+	"leverage": "125",
+	"margin_type": "CROSSED",
+	"api_url" : "https://fapi.binance.com/",
+	"max_loss_per_trade" : "0.5"
+}

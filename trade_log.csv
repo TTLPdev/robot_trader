@@ -1,0 +1,2 @@
+market,leverage,qty,cause,side,time,trigger_price,type,market_price
+BTCUSDT,125,0.001,Signal,-1,1635334922.9909875,,SELL,58712.25
